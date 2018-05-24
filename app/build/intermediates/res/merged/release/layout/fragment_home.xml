@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/current_frame_layout"
+        android:layout_marginTop="37dp"
+        android:layout_below="@+id/gradesButton"
+        android:layout_toEndOf="@+id/attendanceButton"
+        android:layout_x="-6dp"
+        android:layout_y="-47dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/initialpicture"
+            android:id="@+id/loadingPicture" />
+
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/announcementsView"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/current_frame_layout">
+
+        </WebView>
+    </FrameLayout>
+
+    <Button
+        android:text="GRADES"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gradesButton"
+        android:layout_gravity="right"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#ffffff"
+        android:background="#009688"
+        android:textAlignment="textEnd"
+        android:layout_alignBaseline="@+id/canvasButton"
+        android:layout_alignBottom="@+id/canvasButton"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="ATTENDANCE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/attendanceButton"
+        android:layout_gravity="left"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="#ffffff"
+        android:background="#009688"
+        android:textAlignment="textEnd"
+        android:layout_above="@+id/current_frame_layout"
+        android:layout_toLeftOf="@+id/gradesButton"
+        android:layout_toStartOf="@+id/gradesButton"
+        android:layout_marginRight="27dp"
+        android:layout_marginEnd="27dp" />
+
+    <Button
+        android:text="CANVAS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/canvasButton"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="44dp"
+        android:textColor="#ffffff"
+        android:background="#009688"
+        android:textAlignment="textEnd"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/gradesButton"
+        android:layout_toEndOf="@+id/gradesButton"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp" />
+
+
+</RelativeLayout>

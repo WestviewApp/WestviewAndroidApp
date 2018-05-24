@@ -1,0 +1,7 @@
+#Tue Aug 22 19:32:22 PDT 2017
+base.0=C\:\\Deepali\\dev\\android_ws\\Westview App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2a177359300ae71dd39f149c570e7ff55c3b21e8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Deepali\\dev\\android_ws\\Westview App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0530782632f1aa6df3b1c555c1985a3d30e8a453\\classes.dex
+base.1=C\:\\Deepali\\dev\\android_ws\\Westview App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0530782632f1aa6df3b1c555c1985a3d30e8a453
+file.0=C\:\\Deepali\\dev\\android_ws\\Westview App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2a177359300ae71dd39f149c570e7ff55c3b21e8\\classes.dex

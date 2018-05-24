@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepali Jain\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\support-annotations-23.2.1_2e71cad6e0d38950768c6f4427ed1d435bb41ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.1_554251830e251a7067fce0944aa3a758bfb0010e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_4e162e86f3d7c0f508c243f9bbc0ec647b4cd5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_554251830e251a7067fce0944aa3a758bfb0010e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_0e5dce07176e37c3acf060078bb0e8c2e6808edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\internal_impl-23.2.1_52ff8154ecedb1c3159709bac2fdb3f15ea21fcf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deepali Jain\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_2e71cad6e0d38950768c6f4427ed1d435bb41ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.2.1_a5c99107e0b5ac44870bc635f7ebc708dfabc0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepali Jain\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\jsoup-1.10.3_28cf977c2fb3e7d59373f58902727e4bf8b65c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\com.android.support-design-23.2.1_95c5667f6016176c7b296364daa7b9b4ea410d4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_a5c99107e0b5ac44870bc635f7ebc708dfabc0c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_95c5667f6016176c7b296364daa7b9b4ea410d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_5a178b09ac95f8b130fbe67be86c6acd45a48934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deepali Jain\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.3_28cf977c2fb3e7d59373f58902727e4bf8b65c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_ae57adc224f281aa2f10a2b9cb18bf82a9473ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_bbd4f93e40878027d820bc567794218ce247adbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_cfa436b8276143d612e7a401dadb0f133fcd73b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.1_369f0f24e08938dd43eee8b8a87698fe7730b160.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_369f0f24e08938dd43eee8b8a87698fe7730b160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2b53408f510a45ad1cfb0dbc4d7a2bb64830148d">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f78bf32af279a58dbd163824198624103fbfc78d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepali Jain\.gradle\caches\modules-2\files-2.1\net.sourceforge.htmlcleaner\htmlcleaner\2.16\4a565770e8d1fe3e82cc7f42744ed2a73fc8600\htmlcleaner-2.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04a565770e8d1fe3e82cc7f42744ed2a73fc8600">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\htmlcleaner-2.16_011d223c1baf4b6aa3af03bde6408657cbf83841.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_cc6ef50f6abcf3b8af7607ccda79d6f3c071909f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd654d2c00e6cfe76ad8b7b551fa6d32b41d2fee">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6de43c56f606d017a22a17fd444e203093c76b14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_cde296e0afc3fe3d7515e56a784ea925f8b16930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deepali Jain\.gradle\caches\modules-2\files-2.1\net.sourceforge.htmlcleaner\htmlcleaner\2.16\4a565770e8d1fe3e82cc7f42744ed2a73fc8600\htmlcleaner-2.16.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04a565770e8d1fe3e82cc7f42744ed2a73fc8600">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\htmlcleaner-2.16_011d223c1baf4b6aa3af03bde6408657cbf83841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Deepali\dev\android_ws\New Code\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_2430d1c49e833d4815b9d2b887cd9859f20f0999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="46f260228a0f0ff8469f4be269a21cfc9459ff7e">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0530782632f1aa6df3b1c555c1985a3d30e8a453\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.2.1_cde296e0afc3fe3d7515e56a784ea925f8b16930.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1813d027833e1cf32ade0b81eb7c21c4050c10e">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2a177359300ae71dd39f149c570e7ff55c3b21e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deepali Jain\.gradle\caches\modules-2\files-2.1\org.jdom\jdom2\2.0.5\2001db51c131e555bafdb77fc52af6a9408c505e\jdom2-2.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2001db51c131e555bafdb77fc52af6a9408c505e">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\jdom2-2.0.5_271f3f7504dcb5414243ad04ddb9579df13a1860\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepali Jain\.gradle\caches\modules-2\files-2.1\org.jdom\jdom2\2.0.5\2001db51c131e555bafdb77fc52af6a9408c505e\jdom2-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2001db51c131e555bafdb77fc52af6a9408c505e">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\jdom2-2.0.5_271f3f7504dcb5414243ad04ddb9579df13a1860.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_52ff8154ecedb1c3159709bac2fdb3f15ea21fcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Deepali\dev\android_ws\Westview App\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.1_4e162e86f3d7c0f508c243f9bbc0ec647b4cd5e3.jar" />
+    </item>
+
+</items>
