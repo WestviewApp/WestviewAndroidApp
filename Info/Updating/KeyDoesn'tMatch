@@ -1,0 +1,54 @@
+Author: Jessica Lam
+Date: 8/14/2018
+
+READ IF: You tried to upload an update for the app and Google Play Console says that your key does not match the previous one
+
+1. Do you have the Java Keystore file?! It should be called WestviewAppKeystore.jks
+  a. You can check in Android Studio. Build > Generate Signed APK... And check the Keystore path. If that path does not exist on
+     your computer, then you most likely do not have the keystore. If you do have the keystore, just change it to the correct path
+     and you're done.
+     
+2. If you do not have the Keystore file, contact that previous developer and ask them if they can send you their keystore file.
+   If you cannot contact the prev. dev. and/or for some reason cannot get the Keystore file, continue.
+
+3. Go to https://support.google.com/googleplay/android-developer/contact/otherbugs
+
+4. Make sure you are signed in as westviewdeveloperwics@gmail.com
+
+5. Fill in the fields accordingly
+  a. First name: Westview
+  b. Last name: WICS
+  c. Email: westviewdeveloperwics@gmail.com
+  d. Dev. name: Westview WICS
+  e. CHECK Need help with issue
+  f. CHECK Keystore related
+  g. CHECK I lost my key
+  h. Feedback/description: We no longer have access to the original keystore and thus cannot update our app (Or something along
+     those lines)
+
+6. Wait for about 2-3 business days for an email from Google Play Dev Support (to westviewdeveloperwics@gmail.com)
+  a. They will tell you how to generate a keystore and how to get the pem certificate
+  b. They will also tell you to attach the certificate and reply to their email
+
+READ IF: You've never worked with Java Keystore/Keytool before!!!!
+NOTE: The following instructions are for Windows only
+
+1. Run Command Prompt as Administrator
+
+2. Type the following line-by-line into the cmd prompt window
+  a. cd \..
+  b. cd Program Files\Java
+  c. cd jdk1.8.0_151\bin
+    - IF the above command does not work, you may have a different version of Java. Just go into your file explorer and go to
+      C:\Program Files\Java  and look for the jdk file (it should look the same as the one in part c but with different numbers)
+    - THEN type the name of that file instead of the one in part c
+  d. keytool -genkeypair -alias upload -keyalg RSA -keysize 2048 -validity 9125 -keystore WestviewAppKeystore.jks
+  e. Use the westviewdeveloperwics@gmail.com password for the keystore
+  f. (Answer the questions)
+  g. Use the same password
+  h. keytool -export -rfc -alias upload -file upload_certicate.pem -keystore WestviewAppKeystore.jks
+  i. Enter password
+  
+3. Attach file: upload_certificate.pem (found in C:\Program Files\Java\jdk1.8.0_151\bin) to email and reply
+
+4. When generating the signed APK remember to change the keystore path to the correct one
