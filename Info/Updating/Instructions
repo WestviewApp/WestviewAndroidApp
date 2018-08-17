@@ -1,0 +1,35 @@
+Author: Jessica Lam
+Date: 8/16/2018
+
+Before you update:
+
+1. In Android Studio, WestviewApp-master > app > build.gradle
+2. In defaultConfig
+  a. Change the version code to 1 higher than the original #
+  b. Change the version name (version code helps YOU keep track of the newest version of the code while version name
+     is what the users see when they update their app i.e. '4.1', '4.2' etc.
+3. Build > Generate Signed APK...
+  a. IF Generate Signed APK is not avaialbe, click Build APK and then wait for it to finish building before you repeat this step
+  b. All of the fields should automatically be filled in, if not, then you wil have to manually look for the Java
+     keystore yourself. The password should be the same as the one for the westviewdeveloperwics@gmail.com acc
+  c. Click Next
+4. Make sure the Build Type is 'release'
+5. Make sure Signature Version is V1 & V2
+5. Click 'Finish'
+6. When it's done, you can click 'locate' so that you know where it is when you upload it
+
+**NOTE: If there are errors with the APK, you might not have the Java Keystore. If you don't have the keystore, please
+      refer to the LostKeystore file.**
+
+To Update The App:
+
+1. Log into Google Play Console with the westviewdeveloperwics@gmail.com account
+  a. You may have to temporarily sign out of your other Google accounts
+2. Click on "Westview High School" (It's the one that says its status is 'Published')
+3. On menu on the left, open up 'Release Management' and click on 'App Releases'
+4. Under 'Production Track', click on 'Manage'
+5.'Create Release'
+6. 'Browse Files' and select the APK created earlier
+7. Release Name is likely auto-filled (IF not, make it the same as the version name)
+8. Write a short summary of what's new
+9. 'Review' & 'Start Rollout to Production'
