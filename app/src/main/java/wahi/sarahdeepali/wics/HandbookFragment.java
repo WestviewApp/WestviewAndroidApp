@@ -51,7 +51,7 @@ public class HandbookFragment extends Fragment {
 
             web.getSettings().setJavaScriptEnabled(true);
             web.setWebViewClient(new WebViewClient());
-            String pdf = "https://drive.google.com/file/d/0B4MhOuT3IzCMb1duS0tlbjVsVkU/view?usp=sharing";
+            String pdf = "https://drive.google.com/file/d/1HYWJY2iWFNwr-ZGf0yU9HRyk9BNuvvVs/view?usp=sharing";
             //web.loadUrl("http://drive.google.com/viewerng/viewer?embedded=true&url=" + pdf);
             web.loadUrl(pdf);
             return rootView;
