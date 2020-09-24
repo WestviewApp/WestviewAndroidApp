@@ -1,0 +1,8 @@
+Here's a list of possible errors that we've run into while updating on Play Store, and how to fix them! Feel free to add on as needed.
+
+1. Keystore File or any other Key error: see KeyDoesn'tMatch file under Updating folder
+
+2. Target Version needs to be updated: Under build.gradle (Module: app), change targetSdkVersion to whatever version PlayStore needs it to be.
+
+3. A version code for this # already exists: under build.gradle (Module: app), change versionCode to +1 of the previous one (ex: 4 to 5, 11 to 12)
+
