@@ -26,10 +26,9 @@ To Update The App:
 1. Log into Google Play Console with the westviewdeveloperwics@gmail.com account
   a. You may have to temporarily sign out of your other Google accounts
 2. Click on "Westview High School" (It's the one that says its status is 'Published')
-3. On menu on the left, open up 'Release Management' and click on 'App Releases'
-4. Under 'Production Track', click on 'Manage'
-5.'Create Release'
-6. 'Browse Files' and select the APK created earlier
-7. Release Name is likely auto-filled (IF not, make it the same as the version name)
-8. Write a short summary of what's new
-9. 'Review' & 'Start Rollout to Production'
+3. On menu on the left, open up 'Production'
+4.'Create Release'
+5. 'Browse Files' and select the APK created earlier
+6. Release Name is likely auto-filled (IF not, make it the same as the version name)
+7. Write a short summary of what's new
+8. 'Review' & 'Start Rollout to Production'
